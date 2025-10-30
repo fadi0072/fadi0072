@@ -9,7 +9,7 @@
 - 💬 Ask me about **React Native, React, API integrations, Publishing Apps on Appstore & Playstore Node.js, and AI integrations.**
 - 📫 Reach me on LinkedIn  **[LinkedIn](https://www.linkedin.com/in/fahaddev0072/)**  
 - 📫 Reach me on **[Upwork](https://www.upwork.com/freelancers/~0153e820cd3b4dc9f7)**  
-- 📄 View my resume [here]([https://drive.google.com/file/d/1olUp6swy1fT5pXZWuJtOGwIxMpT0IOv0/view?usp=sharing](https://drive.google.com/file/d/1xZNvVuJNVt0W-6-N-Nx_HxpYnvwObhmh/view?usp=sharing))
+- 📄 View my resume **[here]([https://drive.google.com/file/d/1olUp6swy1fT5pXZWuJtOGwIxMpT0IOv0/view?usp=sharing](https://drive.google.com/file/d/1xZNvVuJNVt0W-6-N-Nx_HxpYnvwObhmh/view?usp=sharing))**
 
 ---
 
