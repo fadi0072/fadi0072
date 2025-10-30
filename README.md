@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fahad Mehmood</h1>
+<h1 align="center">Hi 👋, I'm MAlik Fahad Mehmood</h1>
 <h3 align="center">Senior React Native Developer | Based in Frankfurt 🇩🇪 | Building Scalable Mobile Experiences 🌍</h3>
 
 - 🎓 Currently enrolled in **M.Sc. High Integrity Systems** at **Frankfurt University of Applied Sciences**, focusing on  
@@ -8,8 +8,8 @@
 - 🚀 Contributing to **[Lymelyt ](https://lymelyt.com/)** — a premium platform  for Talented Artists Across All Genres to Showcase Their Skills, Connect with Audiences, and Create Earning Opportunities. (https://lymelyt.com/). Appstore : https://apps.apple.com/us/app/lymelyt/id6752035027 Google Play : https://play.google.com/store/apps/details?id=com.lymelyt.com&hl=de
 - 💬 Ask me about **React Native, React, API integrations, Publishing Apps on Appstore & Playstore Node.js, and AI integrations.**
 - 📫 Reach me on LinkedIn  **[LinkedIn](https://www.linkedin.com/in/fahaddev0072/)**  
-- 📫 Reach me on **[Upwork](https://www.upwork.com/freelancers/~0153e820cd3b4dc9f7)**  
-- 📄 View my resume **[here]([https://drive.google.com/file/d/1olUp6swy1fT5pXZWuJtOGwIxMpT0IOv0/view?usp=sharing](https://drive.google.com/file/d/1xZNvVuJNVt0W-6-N-Nx_HxpYnvwObhmh/view?usp=sharing))**
+- 📫 Reach me on **[Upwork](https://www.upwork.com/freelancers/~0153e820cd3b4dc9f7)**
+- 📄  View my resume **[CV](https://drive.google.com/file/d/1olUp6swy1fT5pXZWuJtOGwIxMpT0IOv0/view?usp=sharing](https://drive.google.com/file/d/1xZNvVuJNVt0W-6-N-Nx_HxpYnvwObhmh/view?usp=sharing)**  
 
 ---
 
