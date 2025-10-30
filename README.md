@@ -5,11 +5,11 @@
   _Pattern-Oriented Software Engineering_ and _Machine Learning._  
 - 🌱 I’m learning **High-Level System Architecture** to design scalable, production-grade systems.  
 - 👯 Open to collaborating on **startups, SaaS platforms, or mobile-first products.**
-- 🚀 Contributing to **[Lymelyt ](https://lymelyt.com/)** — a premium platform  for Talented Artists Across All Genres to Showcase Their Skills, Connect with Audiences, and Create Earning Opportunities. (https://lymelyt.com/). Appstore : https://apps.apple.com/us/app/lymelyt/id6752035027 Google Play : https://play.google.com/store/apps/details?id=com.lymelyt.com&hl=de
+- 🚀 Contributing to **[Lymelyt ](https://lymelyt.com/)** — a premium platform  for Talented Artists Across All Genres to Showcase Their Skills, Connect with Audiences, and Create Earning Opportunities. (https://lymelyt.com/). [Appstore](https://apps.apple.com/us/app/lymelyt/id6752035027) [Google Play](https://play.google.com/store/apps/details?id=com.lymelyt.com&hl=de)
 - 💬 Ask me about **React Native, React, API integrations, Publishing Apps on Appstore & Playstore Node.js, and AI integrations.**
 - 📫 Reach me on LinkedIn  **[LinkedIn](https://www.linkedin.com/in/fahaddev0072/)**  
 - 📫 Reach me on **[Upwork](https://www.upwork.com/freelancers/~0153e820cd3b4dc9f7)**
-- 📄  View my resume **[CV](https://drive.google.com/file/d/1olUp6swy1fT5pXZWuJtOGwIxMpT0IOv0/view?usp=sharing](https://drive.google.com/file/d/1xZNvVuJNVt0W-6-N-Nx_HxpYnvwObhmh/view?usp=sharing)**  
+- 📄  View my resume **[CV](https://drive.google.com/file/d/1xZNvVuJNVt0W-6-N-Nx_HxpYnvwObhmh/view?usp=sharing)**  
 
 ---
 
