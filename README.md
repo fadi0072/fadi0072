@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MAlik Fahad Mehmood</h1>
-<h3 align="center">Senior React Native Developer | Based in Frankfurt 🇩🇪 | Building Scalable Mobile Experiences 🌍</h3>
+<h3 align="center">Senior React Native Developer | Based in Frankfurt 🇩🇪 | Building Scalable Mobile & Web Experiences 🌍</h3>
 
 - 🎓 Currently enrolled in **M.Sc. High Integrity Systems** at **Frankfurt University of Applied Sciences**, focusing on  
   _Pattern-Oriented Software Engineering_ and _Machine Learning._  
