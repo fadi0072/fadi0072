@@ -1,82 +1,66 @@
-<h1 align="center">Hi 👋, I'm Malik Fahad Mehmood</h1> <h3 align="center">Senior React Native Developer | Frankfurt, Germany 🇩🇪 | Mobile & Web Applications</h3>
-🎯 Professional Summary
+# Hi 👋, I'm Malik Fahad Mehmood
+### Senior React Native Developer | Frankfurt, Germany 🇩🇪 | Mobile & Web Applications
 
-Senior React Native Developer with experience in building scalable mobile and web applications from scratch to production.
+---
 
-Skilled in React, React Native, Node.js, TypeScript, JavaScript, Redux, and modern cloud/database solutions.
+### 🎯 Professional Summary
+- Senior React Native Developer with experience in **building scalable mobile and web applications** from scratch to production.  
+- Skilled in **React, React Native, Node.js, TypeScript, JavaScript, Redux**, and modern cloud/database solutions.  
+- Experienced in **UI/UX design, API integration, payment gateways, BLE connectivity**, and deploying apps to **App Store** and **Google Play Store**.  
+- Strong background in **software architecture, system design, and performance optimization** for mobile-first platforms.  
+- Knowledgeable in **AI integrations, Firebase, MongoDB, PostgreSQL, Docker, Tailwind CSS, Figma, Sass, and Google Cloud**.  
 
-Experienced in designing UI/UX, integrating APIs, implementing payment gateways, BLE connectivity, and deploying apps to App Store and Google Play Store.
+---
 
-Strong background in software architecture, system design, and performance optimization for mobile-first platforms.
+### 💼 Education
+- **M.Sc. High Integrity Systems**, Frankfurt University of Applied Sciences  
+  - Focus: _Pattern-Oriented Software Engineering_ & _Machine Learning_  
 
-Knowledgeable in AI integrations, Firebase, MongoDB, PostgreSQL, Docker, Tailwind CSS, Figma, Sass, and Google Cloud.
+---
 
-💼 Education
+### 💻 Technical Skills
+- **Languages:** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/)  
+- **Frameworks & Libraries:** [React](https://reactjs.org/), [React Native](https://reactnative.dev/), [Redux](https://redux.js.org/), [Tailwind CSS](https://tailwindcss.com/), [Sass](https://sass-lang.com/)  
+- **Backend & APIs:** [Node.js](https://nodejs.org/), RESTful API integration  
+- **Databases:** [MongoDB](https://www.mongodb.com/), [PostgreSQL](https://www.postgresql.org/), [Firebase](https://firebase.google.com/)  
+- **Cloud & DevOps:** [Docker](https://www.docker.com/), [Google Cloud](https://cloud.google.com/), [DigitalOcean](https://www.digitalocean.com/)  
+- **Design & Prototyping:** [Figma](https://www.figma.com/)  
+- **Testing:** [Jest](https://jestjs.io/), [React Native Testing Library](https://testing-library.com/docs/react-native-testing-library/intro/)  
+- **Others:** BLE mesh, Stripe payment integration, real-time chat/socket.io  
 
-M.Sc. High Integrity Systems, Frankfurt University of Applied Sciences
+---
 
-Focus: Pattern-Oriented Software Engineering & Machine Learning
+### 📱 Projects & Achievements
+- **[Lymlight Mobile App](https://lymelyt.com/)** – React Native | iOS & Android  
+  - Developed end-to-end **user management, content moderation, support center, notifications, and payment features**.  
+  - Integrated **unit and integration testing** using Jest and React Native Testing Library.  
+  - Aligned app logic with backend dashboard modules for seamless operations.  
+  - Published to **[App Store](https://apps.apple.com/us/app/lymelyt/id6752035027)** and **[Google Play](https://play.google.com/store/apps/details?id=com.lymelyt.com&hl=de)**.  
 
-💻 Technical Skills
+- **[Toggled iQ App](https://github.com/cjcole8/toggled-iq)** – React Native  
+  - Implemented **smart lighting control** using BLE mesh with dimming, on/off toggles, zone grouping, and scene settings.  
+  - Simplified setup and system upgrades for seamless user experience.  
+  - Designed scalable device management and user-friendly interface for **iOS and Android**.  
 
-Languages: JavaScript, TypeScript
+- **[Empress Restaurant Platform](https://github.com/cjcole8/empress-restaurant)** – Next.js, Node.js, MongoDB  
+  - Built **website, dashboard, and backend** from scratch to production.  
+  - Implemented **menu management, cart, checkout, Stripe payment integration**.  
+  - Deployed on **[DigitalOcean](https://www.digitalocean.com/)**.  
 
-Frameworks & Libraries: React, React Native, Redux, Tailwind CSS, Sass
+---
 
-Backend & APIs: Node.js, RESTful API integration
+### 🌱 Learning & Growth
+- Studying **High-Level System Architecture** for scalable, production-grade systems.  
+- Exploring **AI integration in mobile and web applications**.  
 
-Databases: MongoDB, PostgreSQL, Firebase
+---
 
-Cloud & DevOps: Docker, Google Cloud, DigitalOcean
+### 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/fahaddev0072/)  
+- [GitHub](https://github.com/cjcole8)  
+- [Upwork](https://www.upwork.com/freelancers/~0153e820cd3b4dc9f7)  
+- [Resume/CV](https://drive.google.com/file/d/1xZNvVuJNVt0W-6-N-Nx_HxpYnvwObhmh/view?usp=sharing)  
 
-Design & Prototyping: Figma
+---
 
-Testing: Jest, React Native Testing Library
-
-Others: BLE mesh, Stripe payment integration, real-time chat/socket.io
-
-📱 Projects & Achievements
-
-Lymlight Mobile App (iOS & Android)
-
-Developed end-to-end using React Native, implementing user management, content moderation, support center, notifications, and payments.
-
-Integrated unit and integration testing using Jest and React Native Testing Library.
-
-Collaborated with backend team to align app logic with dashboard modules.
-
-Published production builds to App Store and Google Play Store.
-
-Toggled iQ App
-
-Implemented smart lighting control using BLE mesh, supporting dimming, on/off toggles, zone grouping, and scene settings.
-
-Simplified setup and system upgrades for seamless user experience.
-
-Designed scalable device management and user-friendly interface for iOS and Android.
-
-Empress Restaurant Platform
-
-Built from scratch to production with Next.js website, Next.js dashboard, Node.js backend, and MongoDB database.
-
-Implemented menu management, cart, checkout, and Stripe payment integration.
-
-Deployed application on DigitalOcean.
-
-🌱 Learning & Growth
-
-Studying High-Level System Architecture for scalable, production-grade systems.
-
-Continuously exploring AI integration in mobile and web applications.
-
-🌐 Online Presence
-
-LinkedIn
-
-GitHub
-
-Upwork
-
-Resume
-
-⭐ “Turning ideas into elegant, user-focused mobile experiences.”
+⭐ **“Turning ideas into elegant, user-focused mobile experiences.”**
