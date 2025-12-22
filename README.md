@@ -1,45 +1,82 @@
-<h1 align="center">Hi 👋, I'm Malik Fahad Mehmood</h1>
-<h3 align="center">Senior React Native Developer | Based in Frankfurt 🇩🇪 | Building Scalable Mobile & Web Experiences 🌍</h3>
+<h1 align="center">Hi 👋, I'm Malik Fahad Mehmood</h1> <h3 align="center">Senior React Native Developer | Frankfurt, Germany 🇩🇪 | Mobile & Web Applications</h3>
+🎯 Professional Summary
 
-- 🎓 Currently enrolled in **M.Sc. High Integrity Systems** at **Frankfurt University of Applied Sciences**, focusing on  
-  _Pattern-Oriented Software Engineering_ and _Machine Learning._  
-- 🌱 I’m learning **High-Level System Architecture** to design scalable, production-grade systems.  
-- 👯 Open to collaborating on **startups, SaaS platforms, or mobile-first products.**
-- 🚀 Contributing to **[Lymelyt ](https://lymelyt.com/)** — a premium platform  for Talented Artists Across All Genres to Showcase Their Skills, Connect with Audiences, and Create Earning Opportunities. (https://lymelyt.com/). [Appstore](https://apps.apple.com/us/app/lymelyt/id6752035027) [Google Play](https://play.google.com/store/apps/details?id=com.lymelyt.com&hl=de)
-- 💬 Ask me about **React Native, React, API integrations, Publishing Apps on Appstore & Playstore Node.js, and AI integrations.**
-- 📫 Reach me on LinkedIn  **[LinkedIn](https://www.linkedin.com/in/fahaddev0072/)**  
-- 📫 Reach me on **[Upwork](https://www.upwork.com/freelancers/~0153e820cd3b4dc9f7)**
-- 📄  View my resume **[CV](https://drive.google.com/file/d/1xZNvVuJNVt0W-6-N-Nx_HxpYnvwObhmh/view?usp=sharing)**  
+Senior React Native Developer with experience in building scalable mobile and web applications from scratch to production.
 
----
+Skilled in React, React Native, Node.js, TypeScript, JavaScript, Redux, and modern cloud/database solutions.
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/fahadmehmooddev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a>
-<a href="https://github.com/cjcole8" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
-<a href="https://www.upwork.com/freelancers/~0153e820cd3b4dc9f7" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/upwork.svg" alt="upwork" width="40" height="40"/></a>
-</p>
+Experienced in designing UI/UX, integrating APIs, implementing payment gateways, BLE connectivity, and deploying apps to App Store and Google Play Store.
 
----
+Strong background in software architecture, system design, and performance optimization for mobile-first platforms.
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
-<p align="left">
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-</p>
+Knowledgeable in AI integrations, Firebase, MongoDB, PostgreSQL, Docker, Tailwind CSS, Figma, Sass, and Google Cloud.
 
----
+💼 Education
 
-⭐ **“Turning ideas into elegant, user-focused mobile experiences.”**
+M.Sc. High Integrity Systems, Frankfurt University of Applied Sciences
+
+Focus: Pattern-Oriented Software Engineering & Machine Learning
+
+💻 Technical Skills
+
+Languages: JavaScript, TypeScript
+
+Frameworks & Libraries: React, React Native, Redux, Tailwind CSS, Sass
+
+Backend & APIs: Node.js, RESTful API integration
+
+Databases: MongoDB, PostgreSQL, Firebase
+
+Cloud & DevOps: Docker, Google Cloud, DigitalOcean
+
+Design & Prototyping: Figma
+
+Testing: Jest, React Native Testing Library
+
+Others: BLE mesh, Stripe payment integration, real-time chat/socket.io
+
+📱 Projects & Achievements
+
+Lymlight Mobile App (iOS & Android)
+
+Developed end-to-end using React Native, implementing user management, content moderation, support center, notifications, and payments.
+
+Integrated unit and integration testing using Jest and React Native Testing Library.
+
+Collaborated with backend team to align app logic with dashboard modules.
+
+Published production builds to App Store and Google Play Store.
+
+Toggled iQ App
+
+Implemented smart lighting control using BLE mesh, supporting dimming, on/off toggles, zone grouping, and scene settings.
+
+Simplified setup and system upgrades for seamless user experience.
+
+Designed scalable device management and user-friendly interface for iOS and Android.
+
+Empress Restaurant Platform
+
+Built from scratch to production with Next.js website, Next.js dashboard, Node.js backend, and MongoDB database.
+
+Implemented menu management, cart, checkout, and Stripe payment integration.
+
+Deployed application on DigitalOcean.
+
+🌱 Learning & Growth
+
+Studying High-Level System Architecture for scalable, production-grade systems.
+
+Continuously exploring AI integration in mobile and web applications.
+
+🌐 Online Presence
+
+LinkedIn
+
+GitHub
+
+Upwork
+
+Resume
+
+⭐ “Turning ideas into elegant, user-focused mobile experiences.”
