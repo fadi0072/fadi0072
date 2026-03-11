@@ -1,9 +1,9 @@
-# Hi 👋, I'm Malik Fahad Mehmood
-### Senior React Native Developer | Frankfurt, Germany 🇩🇪 | Mobile & Web Applications
+# Hi, I'm Malik Fahad Mehmood
+### Senior React Native Developer | Frankfurt, Germany | Mobile & Web Applications
 
 ---
 
-### 🎯 Professional Summary
+### Professional Summary
 - Senior React Native Developer with experience in **building scalable mobile and web applications** from scratch to production.  
 - Skilled in **React, React Native, Node.js, TypeScript, JavaScript, Redux**, and modern cloud/database solutions.  
 - Experienced in **UI/UX design, API integration, payment gateways, BLE connectivity**, and deploying apps to **App Store** and **Google Play Store**.  
@@ -12,13 +12,13 @@
 
 ---
 
-### 💼 Education
+### Education
 - **M.Sc. High Integrity Systems**, Frankfurt University of Applied Sciences  
   - Focus: _Pattern-Oriented Software Engineering_ & _Machine Learning_  
 
 ---
 
-### 💻 Technical Skills
+### Technical Skills
 - **Languages:** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/)  
 - **Frameworks & Libraries:** [React](https://reactjs.org/), [React Native](https://reactnative.dev/), [Redux](https://redux.js.org/), [Tailwind CSS](https://tailwindcss.com/), [Sass](https://sass-lang.com/)  
 - **Backend & APIs:** [Node.js](https://nodejs.org/), RESTful API integration  
@@ -30,7 +30,7 @@
 
 ---
 
-### 📱 Projects & Achievements
+### Projects & Achievements
 - **[Lymlight Mobile App](https://lymelyt.com/)** – React Native | iOS & Android  
   - Developed end-to-end **user management, content moderation, support center, notifications, and payment features**.  
   - Integrated **unit and integration testing** using Jest and React Native Testing Library.  
@@ -49,13 +49,13 @@
 
 ---
 
-### 🌱 Learning & Growth
+### Learning & Growth
 - Studying **High-Level System Architecture** for scalable, production-grade systems.  
 - Exploring **AI integration in mobile and web applications**.  
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/fahaddev0072/)  
 - [GitHub](https://github.com/cjcole8)  
 - [Upwork](https://www.upwork.com/freelancers/~0153e820cd3b4dc9f7)  
@@ -63,4 +63,4 @@
 
 ---
 
-⭐ **“Turning ideas into elegant, user-focused mobile experiences.”**
+ **“Turning ideas into elegant, user-focused mobile experiences.”**
