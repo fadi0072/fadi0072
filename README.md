@@ -70,7 +70,7 @@ Certified Artificial Intelligence Developer
 **ToggledIQ — IoT Lighting Control** · _Altair (now part of Siemens)_
 React Native app controlling lights, sensors, and switches (dimming, scheduling) via the CSRmesh SDK, with Kotlin native modules and Koin DI.
 `React Native` `Kotlin` `Koin` `CSRmesh`
- Demo video — _[add link]_
+ Demo video — _[https://vimeo.com/1198223228]_
 
 **AmplifyHR — HR Platform**
 HR web platform integrating Salesforce, Pardot, and a Sanity CMS, with role-based-access dashboards (admin, vendor, affiliate, user) and an AI chatbot.
@@ -96,6 +96,7 @@ Mobile app delivering interactive lessons to help preserve and teach the Niue la
 Maritime logbook app with encrypted QR-code generation (download/email) and thermal-printer integration (Rongta 80mm POS over USB/Bluetooth).
 `React Native` `QR` `Printer SDK`
  [iOS](https://apps.apple.com/no/app/marinelogi/id1484383819)
+ [DEMO VIDEO]([https://apps.apple.com/no/app/marinelogi/id1484383819](https://vimeo.com/1198230891))
 
 **Wits — Word Game**
 Real-time multiplayer word game with socket integration and in-app purchases.
