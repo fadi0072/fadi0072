@@ -2,10 +2,10 @@
 
 ### Software Engineer · Mobile & Web · AI/LLM Developer
 
-Frontend, mobile, and full-stack engineer with 5 years building and shipping production apps to the App Store and Google Play — now focused on AI-powered products with React Native, React/Next.js, and LLMs.
+Frontend, mobile, and full-stack engineer with 5 years building and shipping production apps to the App Store and Google Play, now focused on AI-powered products with React Native, React/Next.js, and LLMs.
 
 Frankfurt am Main, Germany · Authorized to work in Germany
-MSc High Integrity Systems — Frankfurt University of Applied Sciences
+MSc High Integrity Systems . Frankfurt University of Applied Sciences
 Certified Artificial Intelligence Developer
 
 ---
