@@ -96,7 +96,7 @@ Mobile app delivering interactive lessons to help preserve and teach the Niue la
 Maritime logbook app with encrypted QR-code generation (download/email) and thermal-printer integration (Rongta 80mm POS over USB/Bluetooth).
 `React Native` `QR` `Printer SDK`
  [iOS](https://apps.apple.com/no/app/marinelogi/id1484383819)
- [DEMO VIDEO]([https://apps.apple.com/no/app/marinelogi/id1484383819](https://vimeo.com/1198230891))
+  Demo video — _[https://vimeo.com/1198223228](https://apps.apple.com/no/app/marinelogi/id1484383819](https://vimeo.com/1198230891]_
 
 **Wits — Word Game**
 Real-time multiplayer word game with socket integration and in-app purchases.
