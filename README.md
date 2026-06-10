@@ -112,7 +112,6 @@ Interactive web experience built with Three.js.
 
 ##  GitHub Stats
 
-![Malik's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadi0072&show_icons=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadi0072&layout=compact&hide_border=true)
 
 ---
